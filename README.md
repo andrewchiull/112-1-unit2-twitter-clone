@@ -1,9 +1,23 @@
-# 112-1-unit2-twitter-clone
+---
+title: "HW3 of NTUEE Web Programming 112-1 (Fall 2023)"
+author: "邱兆陽 CHIU, Chao-Yang (andrewchiull) B04611014"
+date: "2023-11-01"
+output:
+  pdf_document:
+    latex_engine: xelatex
+  html_document: default
+---
 
-See the live demo here: [https://112-1-unit2-twitter-clone.vercel.app/](https://112-1-unit2-twitter-clone.vercel.app/)
-If you have any questions about this repo, feel free to open an issue on this repo or contact me at [eewebprogramming@googlegroups.com](mailto:eewebprogramming@googlegroups.com?subject=twitter-clone%20question)
 
-I update this repo every now and then, so make sure to pull the latest changes with `git pull` before you start working on the project. I will mostly be adding documentation and comments, so you don't have to worry about new updates breaking your code.
+# HW#3: Join Me!
+
+
+> This is the homework #3 of NTUEE Web Programming 112-1 (Fall 2023) by Andrew Chiu (GitHub: andrewchiull)
+
+
+## Description
+
+本次作業是實作一個簡單的揪團 app，在首頁以論壇形式列出每個活動，並可以點擊活動以瀏覽及參加活動。同學繳交之 web app 須使用 Next.js 及使用 SQL 資料庫，關閉並重啟 web app 後，舊有資料不應消失。
 
 ## Running the app
 
